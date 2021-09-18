@@ -6,4 +6,4 @@
 
 - **[Clinical Data to assess diagnosis](https://github.com/Luiz-sj/Clinical_Data_to_assess_diagnosis)**: Predict admission to the ICU of confirmed COVID-19 cases.
 
-- **[Credit_rating](https://github.com/Luiz-sj/Credit_rating)**: Credit rating with user interface environment
+- **[Credit rating](https://github.com/Luiz-sj/Credit_rating)**: Credit rating with user interface environment
