@@ -1,4 +1,4 @@
-#### Hello, I am Luiz Afonso and welcome to my GitHub profile.
+### Hello, I am Luiz Afonso and welcome to my GitHub profile.
 
 I'm interested in Data Science and Machine Learning, I hope to bring to this page some projects, ideas and other things related to Data Science world. Feel free to get in contact by e-mail and be a part of my [LinkedIn](https://www.linkedin.com/in/luiz-afonso-dos-santos/) network.
 
