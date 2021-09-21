@@ -12,4 +12,4 @@ There is a brief summary about my public repositories:
 
 - **[Credit rating](https://github.com/Luiz-sj/Credit_rating)**: Credit rating with user interface environment
 
-- **[Bishop - Pattern Recognition And Machine Learning](https://github.com/Luiz-sj/PRAML)**: The goal is to develop codes in python languege based on examples and exercises from the book
+- **[Bishop - Pattern Recognition And Machine Learning](https://github.com/Luiz-sj/PRAML)**: The goal is to develop codes in python based on examples and exercises proposed in the book
